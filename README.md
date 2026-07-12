@@ -35,10 +35,9 @@
 - 🔭 Currently working on **AI Agents & LLM Applications**
 - 🌱 Learning **LangChain, RAG, AI Agents, MLOps & Cloud**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, FastAPI**
-- 📫 Reach me at **YOUR_EMAIL@gmail.com**
+- 📫 Reach me at **chandru4842193@gmail.com**
 - ⚡ Fun Fact: *I love turning ideas into AI-powered solutions.*
 
----
 
 # 💻 Tech Stack
 
@@ -46,35 +45,33 @@
 
 ### 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript&theme=dark" />
-
-### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,python,java&theme=dark" />
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap&theme=dark" />
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" />
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" />
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+
+<img src="https://antigravity.dev/images/logo.svg" alt="Antigravity" height="48" />
 
 </div>
 
----
+
 
 # 🚀 Featured Projects
 

@@ -67,7 +67,6 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
 
-<img src="https://antigravity.dev/images/logo.svg" alt="Antigravity" height="48" />
 
 </div>
 

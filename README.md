@@ -152,13 +152,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chandru484&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
 
 ---
 
